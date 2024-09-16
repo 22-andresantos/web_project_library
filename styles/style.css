@@ -338,7 +338,7 @@
 
 .footer {
   box-sizing: border-box;
-  background-color: #000000;
+  background-color: #1f1f1f;
   color: #ffffff;
 }
 
@@ -371,7 +371,7 @@
 
 .footer__column-heading {
   padding-bottom: 20px;
-  margin-top: 0;
+
   font-size: 16px;
 }
 
