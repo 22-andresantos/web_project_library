@@ -310,12 +310,13 @@
   margin: 100px 0 0;
   display: flex;
   justify-content: center;
+  column-gap: 40px;
 }
 
 .step {
-  width: 220px;
-  gap: 40px;
-  flex-basis: 1;
+  flex-basis: 220px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .step__title {
